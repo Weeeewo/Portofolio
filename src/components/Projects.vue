@@ -53,8 +53,8 @@ const projects = [
     ],
     github: "https://github.com/Weeeewo",
     folder: "QuraShop",
-    video: "/Demo Website/Video/DemoQuraShop.mkv",
-    thumbnail: "/Demo Website/Gambar/QuraShop/Dashboard.png",
+    video: "/assets/videos/DemoQuraShop.mkv",
+    thumbnail: "/assets/projects/QuraShop/Dashboard.png",
     isCropped: true,
   },
   {
@@ -75,8 +75,8 @@ const projects = [
     ],
     github: "https://github.com/Weeeewo",
     folder: "ChickenGang",
-    video: "/Demo Website/Video/DemoChickenGang.mp4",
-    thumbnail: "/Demo Website/Gambar/ChickenGang/Dashboard.png",
+    video: "/assets/videos/DemoChickenGang.mp4",
+    thumbnail: "/assets/projects/ChickenGang/Dashboard.png",
     isCropped: true,
   },
   {
@@ -98,8 +98,8 @@ const projects = [
     ],
     github: "https://github.com/Weeeewo",
     folder: "Cineplay",
-    video: "/Demo Website/Video/DemoCineplay.mkv",
-    thumbnail: "/Demo Website/Gambar/Cineplay/DashboardDarkMode.png",
+    video: "/assets/videos/DemoCineplay.mkv",
+    thumbnail: "/assets/projects/Cineplay/DashboardDarkMode.png",
     isCropped: true,
   },
 ];
